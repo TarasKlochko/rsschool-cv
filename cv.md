@@ -8,7 +8,8 @@ Location: Cherkasy, Ukraine
 SKILLS
 
 - HTML
-- CSS, SASS(SCSS)
+- CSS
+- SASS(SCSS)
 - JavaScript
 - Gulp
 - GitLab, GitHub
