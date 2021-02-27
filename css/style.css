@@ -8,6 +8,10 @@
   padding: 15px;
 }
 
+header {
+  padding-bottom: 5px;
+}
+
 section {
   padding-bottom: 5px;
 }
@@ -15,15 +19,18 @@ section {
 .main {
   padding-top: 15px;
 }
+
 .main__title {
   text-align: center;
   margin: 10px;
 }
+
 .main__job {
   text-align: center;
   font-size: 18px;
   margin: 10px;
 }
+
 .main__foto {
   width: 150px;
 }
@@ -33,6 +40,7 @@ section {
   list-style-type: none;
   padding: 0;
 }
+
 .contact-main li {
   line-height: 24px;
   font-size: 16px;
@@ -45,4 +53,26 @@ section {
 
 .item {
   font-size: 16px;
+}
+mark {
+  background-color: rgb(229, 226, 226);
+  color: black;
+}
+.footer {
+  padding-top: 7px;
+  border-top: 1px solid #000;
+  min-height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer-logo {
+  height: 35px;
+}
+
+.footer-year {
+  font-weight: bold;
+}
+a {
+  line-height: 0;
 }
